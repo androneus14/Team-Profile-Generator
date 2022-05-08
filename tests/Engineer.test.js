@@ -1,9 +1,9 @@
 const Engineer = require('../lib/Engineer');
-const engineer = new Engineer('Alec', '123457', 'alec@fakeemail.com', 'androneus14');
+const engineer = new Engineer('Alec', '2', 'alec@fakeemail.com', 'androneus14');
 
 test('test to create Engineer object', () => {
     expect(engineer.name).toEqual('Alec');
-    expect(engineer.id).toEqual('123457');
+    expect(engineer.id).toEqual('2');
     expect(engineer.email).toEqual('alec@fakeemail.com');
     expect(engineer.github).toEqual('androneus14');
 });

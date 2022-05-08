@@ -17,7 +17,7 @@ test('test to see id through getId method', () => {
 });
 
 test('test to see email through getEmail method', () => {
-    expect(intern.getEmail()).toEqual('alec@fakeemail.com');
+    expect(intern.getEmail()).toEqual('john@fakeemail.com');
 });
 
 test('test to see school through getSchool method', () => {
@@ -25,5 +25,5 @@ test('test to see school through getSchool method', () => {
 });
 
 test('test to get role through getRole method', () => {
-    expect(intern.getRole()).toEqual("Engineer");
+    expect(intern.getRole()).toEqual("Intern");
 });
