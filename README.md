@@ -41,5 +41,7 @@ THEN I exit the application, and the HTML is generated
 
 ## Screenshot
 
+![screenshoot](https://user-images.githubusercontent.com/98381243/167339646-cc6ddf3b-cc3f-4376-acaa-59ac702188aa.png)
+
 ## Links
 
