@@ -55,7 +55,6 @@ const generateTeam = team => {
         html.push(internGenerate);
     }
 
-    // creating a loop for all of the employees
 
     for (let i = 0; i < team.length; i++) {
         if (team[i].getRole() === "Manager") {
