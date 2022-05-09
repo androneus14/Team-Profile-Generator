@@ -20,6 +20,7 @@ Another task we need to complete is testing to make sure the code is maintainabl
     I WANT to generate a webpage that displays my team's basic info
     SO THAT I have quick access to their emails and GitHub profiles
 
+
 ## Acceptance Criteria
 
     GIVEN a command-line application that accepts user input
@@ -41,6 +42,8 @@ Another task we need to complete is testing to make sure the code is maintainabl
     THEN I exit the application, and the HTML is generated
 
 ## Screenshot
+
+![screenshoot](https://user-images.githubusercontent.com/98381243/167339646-cc6ddf3b-cc3f-4376-acaa-59ac702188aa.png)
 
 ## Links
 
