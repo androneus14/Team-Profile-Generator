@@ -47,5 +47,6 @@ Another task we need to complete is testing to make sure the code is maintainabl
 
 ## Links
 
-Email: andynguyen_3@hotmail.com
-Github: https://github.com/androneus14
+Email: andynguyen_3@hotmail.com <br />
+Github: https://github.com/androneus14 <br />
+Demo Video: https://drive.google.com/file/d/13X5-HiAtuBpJO3SgL6NoA_diTgvnWvQ0/view <br />
